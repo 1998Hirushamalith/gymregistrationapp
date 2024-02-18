@@ -1,0 +1,50 @@
+<!-- <mat-toolbar color="primary">
+ <button mat-icon-button class="example-icon" aria-label="Example icon-button with menu icon">
+    <mat-icon>menu</mat-icon>
+  </button>
+  <h1> Gym Registration App </h1>
+  <span class="example-spacer"></span>
+<button mat-icon-button class="example-icon favorite-icon" aria-label="Example icon-button with heart icon">
+    <mat-icon>favorite</mat-icon>
+  </button>
+  <button routerLink="/list" mat-raised-button color="accent">
+  <mat-icon>share</mat-icon>
+  View Enquiries
+  </button>
+</mat-toolbar>
+
+<div class="container mt-4">
+<router-outlet></router-outlet>
+</div>
+
+<ng-toast></ng-toast>
+<ng-confirm></ng-confirm> -->
+
+<mat-toolbar color="primary">
+  <h1>GYM Registration App</h1>
+  <span class="example-spacer"></span>
+  <button routerLink="/list" mat-raised-button color="accent">View Enquiries</button>
+</mat-toolbar>
+
+
+<div style="height:100%" class="container mt-4">
+  <router-outlet> </router-outlet>
+</div>
+
+<div style="background-color: #e53935;color:#fff;" class="container-fluid">
+  <footer class="d-flex flex-wrap justify-content-between align-items-center py-3 my-4 border-top">
+    <div class="col-md-4 d-flex align-items-center">
+
+      <span class="mb-3 mb-md-0 text-light">© 2023 Fitness First, Inc</span>
+    </div>
+
+    <ul class="col-md-4 justify-content-end list-unstyled d-flex">
+      <li class="ms-3"><i class="fa fa-2x fa-instagram" aria-hidden="true"></i></li>
+      <li class="ms-3"><i class="fa fa-2x fa-facebook-official" aria-hidden="true"></i></li>
+      <li class="ms-3"><i class="fa fa-2x fa-twitter-square" aria-hidden="true"></i></li>
+    </ul>
+  </footer>
+</div>
+
+<ng-toast><ng-toast>
+<ng-confirm></ng-confirm>

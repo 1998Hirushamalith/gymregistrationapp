@@ -1,0 +1,69 @@
+{
+  "enquiry": [
+    {
+      "firstName": "Hirusha",
+      "lastName": "Malith",
+      "email": "hirushamalith558@gmail.com",
+      "mobile": "0768714679",
+      "weight": 75,
+      "height": 1.6,
+      "bmi": 0.39062499999999994,
+      "bmiResult": "Underweight",
+      "gender": "Male",
+      "requireTrainer": "Yes",
+      "package": "Yearly",
+      "important": [
+        "Building Lean Muscle",
+        "Healthier Digestive System",
+        "Sugar Craving Body"
+      ],
+      "haveGymBefore": "Yes",
+      "enquiryDate": "2023-07-06T18:30:00.000Z",
+      "id": 1
+    },
+    {
+      "firstName": "Meedum",
+      "lastName": "Vishwa",
+      "email": "meedum@gmail.com",
+      "mobile": "0761234567",
+      "weight": 60,
+      "height": 1.8,
+      "bmi": 0.30864197530864196,
+      "bmiResult": "Underweight",
+      "gender": "Male",
+      "requireTrainer": "Yes",
+      "package": "Monthly",
+      "important": [
+        "Energy and Endurance",
+        "Fitness"
+      ],
+      "haveGymBefore": "No",
+      "enquiryDate": "2023-07-30T18:30:00.000Z",
+      "id": 3
+    },
+    {
+      "firstName": "Princi",
+      "lastName": "Bernadeth",
+      "email": "bernadeth@gmail.com",
+      "mobile": "0312265622",
+      "weight": 80,
+      "height": 1.5,
+      "bmi": 0.4444444444444444,
+      "bmiResult": "Underweight",
+      "gender": "Female",
+      "requireTrainer": "Yes",
+      "package": "Monthly",
+      "important": [
+        "Toxic Fat reduction",
+        "Energy and Endurance",
+        "Building Lean Muscle",
+        "Healthier Digestive System",
+        "Sugar Craving Body",
+        "Fitness"
+      ],
+      "haveGymBefore": "No",
+      "enquiryDate": "2023-07-05T18:30:00.000Z",
+      "id": 4
+    }
+  ]
+}

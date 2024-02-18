@@ -31,6 +31,7 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 *** In this CRUD application , i will be going to introduced of Angular 16 and its powerful features. i will show how to build a CRUD application from scratch using Angular 16, including the  desgining of material json UI , db.json, implementation of front-end and back-end(fake json-server), and integration of both. 
 
 1. Create registration part -
+
                             User ID Column
                             User basic info Column
                             BMI Result Column

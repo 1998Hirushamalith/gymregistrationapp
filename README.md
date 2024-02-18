@@ -25,3 +25,25 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+### Application module Structure
+
+*** In this CRUD application , i will be going to introduced of Angular 16 and its powerful features. i will show how to build a CRUD application from scratch using Angular 16, including the  desgining of material json UI , db.json, implementation of front-end and back-end(fake json-server), and integration of both. 
+
+1. Create registration part -
+                            User ID Column
+                            User basic info Column
+                            BMI Result Column
+                            Package Column
+                            Enquiry date Column
+                            Action Column
+
+2. User model creation 
+3. Registration list creation
+4. API service - http client , angular injectable method
+5. User details - mat card / mat list using for material ui design , fetch user details , get registration user from id 
+6. App routing - 
+
+                            CreateRegistrationComponent
+                            UserDetailComponent
+                            RegistrationListComponent

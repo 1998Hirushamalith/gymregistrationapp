@@ -2,6 +2,20 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.1.0.
 
+Home Page
+
+![image](https://github.com/1998Hirushamalith/gymregistrationapp/assets/130145482/dbe04a4e-f078-431b-a5b8-68ba00423076)
+
+Registration page
+
+![image](https://github.com/1998Hirushamalith/gymregistrationapp/assets/130145482/6d31a7f1-1636-481d-a256-4010f582d8d2)
+
+Inquire page
+
+![image](https://github.com/1998Hirushamalith/gymregistrationapp/assets/130145482/80698a9e-3f8e-40a9-920e-5cd57a719519)
+
+
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
